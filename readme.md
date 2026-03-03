@@ -43,26 +43,3 @@ Al intentar instalar git-flow, apareció el error:
 
 Couldn't find manifest for 'git-flow'
 
-Se realizó una búsqueda con:
-
-scoop search git-flow
-
-El resultado mostró que el paquete disponible era:
-
-git-flow-next
-⚙️ Paso 5: Instalación de Git Flow
-
-Se instaló correctamente con:
-
-scoop install git-flow-next
-✅ Paso 6: Verificación de instalación
-
-Desde Git Bash se verificó con:
-
-git flow version
-
-Si muestra la versión, la instalación fue exitosa.
-
-🎯 Resultado
-
-Git Flow quedó instalado correctamente en Windows utilizando Scoop y el paquete actualizado git-flow-next.
